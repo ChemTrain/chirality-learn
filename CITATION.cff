@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use Chirality Learn in teaching or research, please cite it as below."
+title: "Chirality Learn"
+type: software
+authors:
+  - family-names: Brandon
+    given-names: Laurence
+    affiliation: ChemTrain
+abstract: "A Quizlet-style trainer for assigning stereodescriptors (R/S, E/Z, Re/Si) by the CIP priority rules, on drugs and natural products, in one HTML file."
+url: "https://chemtrain.github.io/chirality-learn/chirality_learn.html"
+repository-code: "https://github.com/ChemTrain/chirality-learn"
+license:
+  - MIT
+  - CC-BY-4.0
+date-released: 2026-11-22
+keywords:
+  - stereochemistry
+  - chirality
+  - CIP rules
+  - Cahn-Ingold-Prelog
+  - medicinal chemistry
+  - chemistry education
